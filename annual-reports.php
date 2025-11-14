@@ -42,6 +42,12 @@
             </div>
             <div class="row clearfix">
                 <div class="report-item col-lg-6 col-md-6 col-sm-12 mb_10">
+                    <a href="assets/documents/resources/annual-reports/Annual Report 2025.pdf" target="_blank" class="report-box">
+                        <i class="fas fa-file-pdf"></i>
+                        Annual Report the year of 2025
+                    </a>
+                </div>
+                <div class="report-item col-lg-6 col-md-6 col-sm-12 mb_10">
                     <a href="assets/documents/resources/annual-reports/ANNUAL-REPORT-2023-24.pdf" target="_blank" class="report-box">
                         <i class="fas fa-file-pdf"></i>
                         Annual Report the year of 2024

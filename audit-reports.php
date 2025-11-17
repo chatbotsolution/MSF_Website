@@ -17,9 +17,6 @@
     <?php include "includes/header.php" ?>
     <!-- main-header end -->
 
-
-
-
     <!-- Page Title -->
     <section class="page-title centred">
         <div class="bg-layer" style="background-image: url(assets/images/background/report.jpg);"></div>
@@ -41,6 +38,12 @@
                 <span class="sub-title">Audit Reports</span>
             </div>
             <div class="row clearfix">
+                <div class="report-item col-lg-6 col-md-6 col-sm-12 mb_10">
+                    <a href="assets/documents/resources/audit-reports/AUDIT REPORT MSF- 2024-25 (Final).pdf" target="_blank" class="report-box">
+                        <i class="fas fa-file-pdf"></i>
+                        Audit Report the year of 2024-2025
+                    </a>
+                </div>
                 <div class="report-item col-lg-6 col-md-6 col-sm-12 mb_10">
                     <a href="assets/documents/resources/audit-reports/2023-24-AUDIT-REPORT.pdf" target="_blank" class="report-box">
                         <i class="fas fa-file-pdf"></i>

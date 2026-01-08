@@ -10,6 +10,8 @@
                         <li><a href="index.html"><i class="fab fa-instagram"></i></a></li>
                     </ul> -->
                     <div class="btn-box">
+                        <a href="assets/documents/apk/Mahashakti_HRMS.apk" class="theme-btn-one pms-btn">
+                            <img src="assets/images/icons/downloading.png" alt="mobile" style="position: relative;bottom: 2px;">ESS</a>
                         <a href="https://mahashaktifoundation.synergyapps.in/" class="theme-btn-one pms-btn">SIP LOGIN</a>
                         <a href="https://msfpms.in/" class="theme-btn-one pms-btn">PMS LOGIN</a>
                     </div>
@@ -17,36 +19,6 @@
                 <div class="widget-section">
                     <div class="row clearfix">
                      
-                        <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
-                            <div class="contact-widget footer-widget ml_30">
-                                <div class="widget-title">
-                                    <h3>Head Office </h3>
-                                </div>
-                                <div class="widget-content">
-                                    <!-- <p>Tincidunt neque pretium lectus donec risus.</p> -->
-                                    <ul class="info-list clearfix">
-                                        <li><i class="icon-17"></i>1st Floor, Mahalaxmi Nagar, Lane No. 2, Bolangir - 767001, Odisha, India.</li>
-                                        <li><i class="icon-18"></i><a href="mailto:mahashakti@mahashaktiindia.org">mahashakti@mahashaktiindia.org</a></li>
-                                        <li><i class="icon-19"></i><a href="tel:3336660000">+91-80181 64596</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
-                            <div class="contact-widget footer-widget ml_30">
-                                <div class="widget-title">
-                                    <h3>State Coordination Office</h3>
-                                </div>
-                                <div class="widget-content">
-                                    <!-- <p>Tincidunt neque pretium lectus donec risus.</p> -->
-                                    <ul class="info-list clearfix">
-                                        <li><i class="icon-17"></i>Plot No-HIG-05, 2nd Floor, Dharma Vihar, <br>Lane No-2, Khandagiri, Bhubaneswar, Odisha, Pin -751030</li>
-                                        <li><i class="icon-18"></i><a href="mailto:mahashakti@mahashaktiindia.org">mahashakti@mahashaktiindia.org</a></li>
-                                        <li><i class="icon-19"></i><a href="tel:3336660000">+91-81180 62118</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
                         <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
                             <div class="contact-widget footer-widget ml_30">
                                 <div class="widget-title">
@@ -62,6 +34,36 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
+                            <div class="contact-widget footer-widget ml_30">
+                                <div class="widget-title">
+                                    <h3>Head Office</h3>
+                                </div>
+                                <div class="widget-content">
+                                    <!-- <p>Tincidunt neque pretium lectus donec risus.</p> -->
+                                    <ul class="info-list clearfix">
+                                        <li><i class="icon-17"></i>HIG-05, Ground & 2nd Floor, Dharma Vihar, Khandagiri, Bhubaneswar, Odisha, 751030</li>
+                                        <li><i class="icon-18"></i><a href="mailto:mahashakti@mahashaktiindia.org">mahashakti@mahashaktiindia.org</a></li>
+                                        <li><i class="icon-19"></i><a href="tel:3336660000">+91-81180 62118</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
+                            <div class="contact-widget footer-widget ml_30">
+                                <div class="widget-title">
+                                    <h3>Zonal Office </h3>
+                                </div>
+                                <div class="widget-content">
+                                    <!-- <p>Tincidunt neque pretium lectus donec risus.</p> -->
+                                    <ul class="info-list clearfix">
+                                        <li><i class="icon-17"></i>Ground & 1st Floor, Mahalaxmi Nagar, Lane No. 2, Bolangir - 767001, Odisha.</li>
+                                        <li><i class="icon-18"></i><a href="mailto:mahashakti@mahashaktiindia.org">mahashakti@mahashaktiindia.org</a></li>
+                                        <li><i class="icon-19"></i><a href="tel:3336660000">+91-80181 64596</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
 
                         <div class="col-lg-2 col-md-6 col-sm-12 footer-column">
                             <div class="contact-widget footer-widget ml_30">
@@ -69,12 +71,6 @@
                                     <h3>Connect With</h3>
                                 </div>
                                 <div class="widget-content">
-                                    <!-- <p>Tincidunt neque pretium lectus donec risus.</p>
-                                    <ul class="info-list clearfix">
-                                        <li><i class="icon-17"></i>New Hyde Park, NY 11040</li>
-                                        <li><i class="icon-18"></i><a href="mailto:example@info.com">example@info.com</a></li>
-                                        <li><i class="icon-19"></i><a href="tel:3336660000">333 666 0000</a></li>
-                                    </ul> -->
                                     <ul class="social-links">
                                         <li><a href="#" class="icon-facebook"><i class="fab fa-facebook-f"></i></a></li>
                                         <li style="margin-top: 10px;"><a href="#" class="icon-twitter"><i class="fab fa-twitter"></i></a></li>

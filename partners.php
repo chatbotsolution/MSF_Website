@@ -115,6 +115,7 @@
     <input type="radio" name="tabs" id="tab2">
     <input type="radio" name="tabs" id="tab3">
     <input type="radio" name="tabs" id="tab4">
+    <input type="radio" name="tabs" id="tab5">
 
     <!-- Tab Labels -->
     <div class="tabs-labels">
@@ -122,12 +123,13 @@
       <label for="tab2">CSR</label>
       <label for="tab3">INTERNATIONAL</label>
       <label for="tab4">VALUE-CHAIN SUPPORT</label>
+      <label for="tab5">KNOWLEDGE</label>
     </div>
 
     <!-- Tab Contents -->
     <div class="content">
       <!-- Tab 1 Content -->
-        <div class="tab-details" id="content1">
+      <div class="tab-details" id="content1">
             <div class="partner-box">
                 <img src="assets/images/partners/partner-6.png" alt="Gov Logo">
                 <hr style="height: 5px;background: #cfcfcf; color: #cfcfcf;">
@@ -144,7 +146,7 @@
                 <!-- <p>National Urban Livelihoods Mission</p> -->
             </div>
         </div>
-        <div class="tab-details" id="content1">
+      <div class="tab-details" id="content1">
             <div class="partner-box">
                 <img src="assets/images/partners/partner-26.png" alt="Gov Logo">
                 <hr style="height: 5px;background: #cfcfcf; color: #cfcfcf;">
@@ -161,7 +163,7 @@
                 <!-- <p>National Urban Livelihoods Mission</p> -->
             </div>
         </div>
-        <div class="tab-details" id="content1">
+      <div class="tab-details" id="content1">
             <div class="partner-box">
                 <img src="assets/images/partners/partner-30.png" alt="Gov Logo">
                 <hr style="height: 5px;background: #cfcfcf; color: #cfcfcf;">
@@ -178,7 +180,7 @@
                 <!-- <p>National Urban Livelihoods Mission</p> -->
             </div>
         </div>
-        <div class="tab-details" id="content1">
+      <div class="tab-details" id="content1">
             <div class="partner-box">
                 <img src="assets/images/partners/partner-45.png" alt="Gov Logo">
                 <hr style="height: 5px;background: #cfcfcf; color: #cfcfcf;">
@@ -300,6 +302,23 @@
             <!-- <p>Government of India</p> -->
         </div>            
       </div>
+      <div class="tab-details" id="content2">
+        <div class="partner-box">
+            <img src="assets/images/partners/partner-51.png" alt="Gov Logo">
+            <hr style="height: 5px;background: #cfcfcf; color: #cfcfcf;">
+            <!-- <p>Government of India</p> -->
+        </div>
+        <!--<div class="partner-box">-->
+        <!--    <img src="assets/images/partners/partner-27.png" alt="Gov Logo">-->
+        <!--    <hr style="height: 5px;background: #cfcfcf; color: #cfcfcf;">-->
+            <!-- <p>Government of India</p> -->
+        <!--</div>-->
+        <!--<div class="partner-box">-->
+        <!--    <img src="assets/images/partners/partner-35.png" alt="Gov Logo">-->
+        <!--    <hr style="height: 5px;background: #cfcfcf; color: #cfcfcf;">-->
+            <!-- <p>Government of India</p> -->
+        <!--</div>            -->
+      </div>
 
       <!-- Tab 3 Content -->
       <div class="tab-details" id="content3">
@@ -366,6 +385,22 @@
             <hr style="height: 5px;background: #cfcfcf; color: #cfcfcf;"> 
             <!-- <p>Government of India</p> -->
          </div> 
+      </div>
+      
+      <!-- Tab 5 Content -->
+      <div class="tab-details" id="content5">
+        <div class="partner-box">
+            <img src="assets/images/partners/partner-50.png" alt="Gov Logo">
+            <hr style="height: 5px;background: #cfcfcf; color: #cfcfcf;">
+            <!-- <p>Government of India</p> -->
+        </div>
+        <!--<div class="partner-box">-->
+        <!--    <img src="assets/images/partners/partner-37.png" alt="Gov Logo">-->
+        <!--    <hr style="height: 5px;background: #cfcfcf; color: #cfcfcf;">-->
+            <!-- <p>Government of India</p> -->
+        <!--</div>-->
+      </div>
+      
       </div>
     </div>
   </section>

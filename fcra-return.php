@@ -47,6 +47,12 @@
                             <div class="container">
                                 <div class="fcra-grid">
                                     <div class="fcra-item">
+                                        <a href="assets/documents/compliances/fcra/FCRA RETURN- 2024-25 .pdf" target="_blank" class="fcra-box">
+                                            <i class="fas fa-file-pdf"></i>
+                                            FCRA Annual Return 2024–25
+                                        </a>
+                                    </div>
+                                    <div class="fcra-item">
                                         <a href="assets/documents/compliances/fcra/FC-RETURN-FOR-2023-24-submitted-20.11.24-MSF.pdf" target="_blank" class="fcra-box">
                                             <i class="fas fa-file-pdf"></i>
                                             FCRA Annual Return 2023–24

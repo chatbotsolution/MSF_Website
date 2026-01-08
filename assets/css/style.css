@@ -8721,7 +8721,8 @@ input[type="radio"] {
 #tab1:checked ~ .tabs-labels label[for="tab1"],
 #tab2:checked ~ .tabs-labels label[for="tab2"],
 #tab3:checked ~ .tabs-labels label[for="tab3"],
-#tab4:checked ~ .tabs-labels label[for="tab4"] {
+#tab4:checked ~ .tabs-labels label[for="tab4"],
+#tab5:checked ~ .tabs-labels label[for="tab5"]{
   background-color: #a52a2a;
   color: #fff;
 }
@@ -8737,7 +8738,8 @@ input[type="radio"] {
 #tab1:checked ~ .content #content1,
 #tab2:checked ~ .content #content2,
 #tab3:checked ~ .content #content3,
-#tab4:checked ~ .content #content4 {
+#tab4:checked ~ .content #content4,
+#tab5:checked ~ .content #content5{
   display: flex;
 }
 
@@ -9101,7 +9103,7 @@ position: relative;
    color: #9B363A;
    margin-top: 10px;
    letter-spacing: 1px;
-   text-transform: uppercase;
+text-transform: uppercase;
  }
 
 

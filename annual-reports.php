@@ -17,6 +17,9 @@
     <?php include "includes/header.php" ?>
     <!-- main-header end -->
 
+
+
+
     <!-- Page Title -->
     <section class="page-title centred">
         <div class="bg-layer" style="background-image: url(assets/images/background/report.jpg);"></div>
@@ -98,9 +101,9 @@
     <!-- main-footer end -->
 
 
-  <!--Scroll to top-->
-        <?php include "includes/scrollToTop.php" ?>
-        <!-- Scroll to top end -->
+    <!--Scroll to top-->
+    <?php include "includes/scrollToTop.php" ?>
+    <!-- Scroll to top end -->
 
 
 

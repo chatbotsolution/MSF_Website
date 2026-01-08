@@ -89,9 +89,9 @@
 
 
 
-     <!--Scroll to top-->
-        <?php include "includes/scrollToTop.php" ?>
-        <!-- Scroll to top end -->
+    <!--Scroll to top-->
+    <?php include "includes/scrollToTop.php" ?>
+    <!-- Scroll to top end -->
 
 
 

@@ -24,7 +24,7 @@
             <div class="header-lower">
                 <div class="outer-box">
                     <div class="logo-box">
-                        <figure class="logo"><a href="index.php"><img src="assets/images/logo/new-logo-msf.png" alt=""></a></figure>
+                        <figure class="logo"><a href="index.php"><img src="assets/images/logo/updated-logo.png" alt=""></a></figure>
                     </div>
                     <div class="menu-area clearfix">
                         <!--Mobile Navigation Toggler-->
@@ -77,7 +77,7 @@
                                             <li><a href="newsletter.php">Newsletter</a></li>
                                             <li class="dropdown"><a href="#">MSF Publications</a>
                                                 <ul>
-                                                    <li><a href="assets/documents/msf-publications/MSF-BROCHURE-2024_compressed.pdf">Brochure</a></li>
+                                                    <li><a href="assets/documents/msf-publications/MSF BROCHURE.pdf">Brochure</a></li>
                                                     <li><a href="assets/documents/msf-publications/Case-Study-Compendium.pdf">Case Study Compendium</a></li>
                                                     <li><a href="project_report.php">Project Report</a></li>
                                                     <li><a href="value-chain.php">Value Chain Reports</a></li>
@@ -125,7 +125,7 @@
                 <div class="outer-container">
                     <div class="outer-box">
                         <div class="logo-box">
-                            <figure class="logo"><a href="index.php"><img src="assets/images/logo/new-logo-msf.png" alt=""></a></figure>
+                            <figure class="logo"><a href="index.php"><img src="assets/images/logo/updated-logo.png" alt=""></a></figure>
                         </div>
                         <div class="menu-area clearfix">
                             <nav class="main-menu clearfix">

@@ -144,8 +144,9 @@
         <section class="feature-section left" style="position: absolute;top: 138px; z-index: 99; left: 15px;">
             <div class="auto-container">
                 <div class="sec-title left">
-                    <img src="assets/images/banner/mf_2024_Certification.png">
-                    <img src="assets/images/banner/NSE-Logo.jpeg" style="margin-top:-110px; height:50px;">                
+                    <!--<img src="assets/images/banner/mf_2024_Certification.png">-->
+                    <img src="assets/images/banner/ngo.png" style="width: 20%; margin-top:1px;">
+                    <img src="assets/images/banner/NSE-Logo.jpeg" style="margin-top: -74px; height:50px;">                
                 </div>
             </div>
         </section>
@@ -587,6 +588,10 @@
                     <figure class="clients-logo"><a href="#"><img src="assets/images/partners/partner-44.png" alt=""></a></figure>
                     <figure class="clients-logo"><a href="#"><img src="assets/images/partners/partner-45.png" alt=""></a></figure>
                     <figure class="clients-logo"><a href="#"><img src="assets/images/partners/partner-46.png" alt=""></a></figure>
+                    <figure class="clients-logo"><a href="#"><img src="assets/images/partners/partner-49.png" alt=""></a></figure>
+                    <figure class="clients-logo"><a href="#"><img src="assets/images/partners/partner-50.png" alt=""></a></figure>
+                    <figure class="clients-logo"><a href="#"><img src="assets/images/partners/partner-51.png" alt=""></a></figure>
+                    <figure class="clients-logo"><a href="#"><img src="assets/images/partners/partner-52.png" alt=""></a></figure>
                 </div>
             </div>
         </section>

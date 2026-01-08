@@ -39,7 +39,27 @@
                 <span class="sub-title">Newsletter</span>
             </div>
             <div class="row clearfix">
-
+                
+                <div class="col-md-3 col-sm-6 col-12 mb_20">
+                    <div class="newsletter-card">
+                        <a href="assets/documents/resources/newsletter/Newsletter - January 2026.pdf"
+                            target="_blank">
+                            <img src="assets/images/newsletter/jan-2026.png" alt="Aug 2025">
+                            <div class="newsletter-title">JANUARY–2026</div>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="col-md-3 col-sm-6 col-12 mb_20">
+                    <div class="newsletter-card">
+                        <a href="assets/documents/resources/newsletter/IN FOCUS - December 2025.pdf"
+                            target="_blank">
+                            <img src="assets/images/newsletter/dec-2025.png" alt="Aug 2025">
+                            <div class="newsletter-title">DECEMBER–2025</div>
+                        </a>
+                    </div>
+                </div>
+                
                 <div class="col-md-3 col-sm-6 col-12 mb_20">
                     <div class="newsletter-card">
                         <a href="assets/documents/resources/newsletter/MSF Newsletter - November 2025.pdf"
@@ -49,33 +69,13 @@
                         </a>
                     </div>
                 </div>
-
+                
                 <div class="col-md-3 col-sm-6 col-12 mb_20">
                     <div class="newsletter-card">
                         <a href="assets/documents/resources/newsletter/MSF-Newsletter - October 2025.pdf"
                             target="_blank">
-                            <img src="assets/images/newsletter/oct-2025.png" alt="Oct 2025">
+                            <img src="assets/images/newsletter/oct-2025.png" alt="Sept 2025">
                             <div class="newsletter-title">OCTOBER–2025</div>
-                        </a>
-                    </div>
-                </div>
-                
-                <div class="col-md-3 col-sm-6 col-12 mb_20">
-                    <div class="newsletter-card">
-                        <a href="assets/documents/resources/newsletter/MSF Newsletter - September 2025.pdf"
-                            target="_blank">
-                            <img src="assets/images/newsletter/sept-2025.png" alt="Sept 2025">
-                            <div class="newsletter-title">SEPTEMBER–2025</div>
-                        </a>
-                    </div>
-                </div>
-                
-                <div class="col-md-3 col-sm-6 col-12 mb_20">
-                    <div class="newsletter-card">
-                        <a href="assets/documents/resources/newsletter/MSF Newsletter - August 2025.pdf"
-                            target="_blank">
-                            <img src="assets/images/newsletter/aug-2025.png" alt="Aug 2025">
-                            <div class="newsletter-title">AUGUST–2025</div>
                         </a>
                     </div>
                 </div>

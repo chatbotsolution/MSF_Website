@@ -17,6 +17,9 @@
     <?php include "includes/header.php" ?>
     <!-- main-header end -->
 
+
+
+
     <!-- Page Title -->
     <section class="page-title centred">
         <div class="bg-layer" style="background-image: url(assets/images/background/contact.png);"></div>
@@ -43,13 +46,84 @@
 
                 <div class="col-lg-4 col-md-6 col-sm-12 info-column">
                     <div class="info-block-one">
-                        <div class="inner-box" style="padding-bottom: 43px;">
-                            <!-- <div class="icon-box"><i class="icon-63"></i></div> -->
-                            <h3>Head Office</h3>
+                        <div class="inner-box" style="padding-bottom: 25px;">
+                            <!-- <div class="icon-box"><i class="icon-64"></i></div> -->
+                            <h3>Registered Office</h3>
                             <p style="display: flex; align-items: center;">
                                 <img src="assets/images/contact/loc-w.png" alt="location" class="contact-icon-w">
                                 <span class="contact-text">
-                                    1st Floor, Mahalaxmi Nagar, Lane No. 2, Bolangir - 767001, Odisha, India.
+                                    At- Burat, Po- Madanpur Rampur, Kalahandi, Pin -766102, Odisha, India.
+                                </span>
+                            </p>
+
+                            <p style="display: flex; align-items: center;">
+                                <img src="assets/images/contact/user-w.png" alt="user" class="contact-icon-w">
+                                <span class="contact-text">
+                                    Contact Person: Mr Prakash Chandra Sahu
+                                </span>
+                            </p>
+
+                            <p style="display: flex; align-items: center;">
+                                <img src="assets/images/contact/phone-w.png" alt="phone" class="contact-icon-w">
+                                <span class="contact-text">
+                                    +91-81180 62107
+                                </span>
+                            </p>
+
+                            <p style="display: flex; align-items: center;">
+                                <img src="assets/images/contact/mail-w.png" alt="email" class="contact-icon-w">
+                                <span class="contact-text">
+                                    mahashakti@mahashaktiindia.org
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 info-column">
+                    <div class="info-block-one">
+                        <div class="inner-box" style="color:#63232a; padding-bottom: 0px;">
+                            <!-- <div class="icon-box"><i class="icon-65"></i></div> -->
+                            <h3 style="color: #9b363a;">Head Office</h3>
+                            <p class="contact-box">
+                                <img src="assets/images/contact/loc-m.png" alt="location" class="contact-icon-m">
+                                <span class="contact-text">
+                                    HIG-05, Ground & 2nd Floor, Dharma Vihar, Khandagiri, Bhubaneswar, Odisha, 751030
+                                </span>
+                            </p>
+
+                            <p class="contact-box">
+                                <img src="assets/images/contact/user-m.png" alt="user" class="contact-icon-m">
+                                <span class="contact-text">
+                                    Contact Person: Mr Saroj Kumar Mohapatra, Senior Manager
+                                </span>
+                            </p>
+
+                            <p class="contact-box">
+                                <img src="assets/images/contact/phone-m.png" alt="phone" class="contact-icon-m">
+                                <span class="contact-text">
+                                    +91-81180 62118
+                                </span>
+                            </p>
+
+                            <p class="contact-box">
+                                <img src="assets/images/contact/mail-m.png" alt="email" class="contact-icon-m">
+                                <span class="contact-text">
+                                    mahashakti@mahashaktiindia.org
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 col-sm-12 info-column">
+                    <div class="info-block-one">
+                        <div class="inner-box" style="padding-bottom: 27px;">
+                            <!-- <div class="icon-box"><i class="icon-63"></i></div> -->
+                            <h3>Zonal Office</h3>
+                            <p style="display: flex; align-items: center;">
+                                <img src="assets/images/contact/loc-w.png" alt="location" class="contact-icon-w">
+                                <span class="contact-text">
+                                    Ground & 1st Floor, Mahalaxmi Nagar, Lane No. 2, Bolangir - 767001, Odisha
                                 </span>
                             </p>
 
@@ -74,77 +148,6 @@
                                 </span>
                             </p>
 
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 info-column ">
-                    <div class="info-block-one">
-                        <div class="inner-box " style="color:#63232a; padding-bottom: 40px;">
-                            <!-- <div class="icon-box"><i class="icon-64"></i></div> -->
-                            <h3 style="color: #9b363a;">Registered Office</h3>
-                            <p class="contact-box">
-                                <img src="assets/images/contact/loc-m.png" alt="location" class="contact-icon-m">
-                                <span class="contact-text">
-                                    At- Burat, Po- Madanpur Rampur, Kalahandi, Pin -766102, Odisha, India.
-                                </span>
-                            </p>
-
-                            <p class="contact-box">
-                                <img src="assets/images/contact/user-m.png" alt="user" class="contact-icon-m">
-                                <span class="contact-text">
-                                    Contact Person: Mr Prakash Chandra Sahu
-                                </span>
-                            </p>
-
-                            <p class="contact-box">
-                                <img src="assets/images/contact/phone-m.png" alt="phone" class="contact-icon-m">
-                                <span class="contact-text">
-                                    +91-81180 62107
-                                </span>
-                            </p>
-
-                            <p class="contact-box">
-                                <img src="assets/images/contact/mail-m.png" alt="email" class="contact-icon-m">
-                                <span class="contact-text">
-                                    mahashakti@mahashaktiindia.org
-                                </span>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 info-column">
-                    <div class="info-block-one">
-                        <div class="inner-box">
-                            <!-- <div class="icon-box"><i class="icon-65"></i></div> -->
-                            <h3>State Coordination Office</h3>
-                            <p style="display: flex; align-items: center;">
-                                <img src="assets/images/contact/loc-w.png" alt="location" class="contact-icon-w">
-                                <span class="contact-text">
-                                    Plot No-HIG-05, 2nd Floor, Dharma Vihar, Lane No-2, Khandagiri, Bhubaneswar, Odisha,
-                                    Pin -751030
-                                </span>
-                            </p>
-
-                            <p style="display: flex; align-items: center;">
-                                <img src="assets/images/contact/user-w.png" alt="user" class="contact-icon-w">
-                                <span class="contact-text">
-                                    Contact Person: Mr Saroj Kumar Mohapatra, Senior Manager
-                                </span>
-                            </p>
-
-                            <p style="display: flex; align-items: center;">
-                                <img src="assets/images/contact/phone-w.png" alt="phone" class="contact-icon-w">
-                                <span class="contact-text">
-                                    +91-81180 62118
-                                </span>
-                            </p>
-
-                            <p style="display: flex; align-items: center;">
-                                <img src="assets/images/contact/mail-w.png" alt="email" class="contact-icon-w">
-                                <span class="contact-text">
-                                    mahashakti@mahashaktiindia.org
-                                </span>
-                            </p>
                         </div>
                     </div>
                 </div>
